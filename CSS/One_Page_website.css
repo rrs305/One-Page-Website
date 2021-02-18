@@ -1,0 +1,38 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    align-content: center;
+}
+
+.reservation form {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8d8e8f;
+    padding: 12px 12px;
+    width: 70%;
+    border: 1px solid #808080;
+    margin: 2% auto;
+    border-radius: 7px;
+    background: rgb(252, 138, 9);
+    box-shadow: 2px 3px 3px 0px rgba(5, 0, 0, 0.897);
+    font-family: 'Raleway', sans-serif;
+}
+
+.reservation input[type="text"] {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #f2f4f7;
+    padding: 2% 1% 2% 7%;
+    width: 38%;
+    border-top: 1px solid #90f012;
+    border-right: 2px solid #90f012;
+    border-bottom: 2px solid #90f012;
+    border-left: 1px solid #09f012;
+    margin: 10px 1em;
+    border-radius: 7px;
+    background: #ad061d;
+    box-shadow: inset 0px 3px 0px 0px rgba(5, 5, 5, 0.15);
+    font-family: 'Raleway', sans-serif;
+}
